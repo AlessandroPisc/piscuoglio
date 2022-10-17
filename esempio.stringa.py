@@ -1,0 +1,2 @@
+A = "lampada"
+print (A)
